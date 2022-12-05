@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SayıTahminEt.iml" filepath="$PROJECT_DIR$/.idea/modules/SayıTahminEt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SayıTahminEt.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SayıTahminEt.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SayıTahminEt.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SayıTahminEt.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SayıTahminEt.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SayıTahminEt.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SayıTahminEt.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SayıTahminEt.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
